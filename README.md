@@ -1,1 +1,1 @@
-
+This is the criminal face recognisation  website where backend is integerated with various  models  like Dlib Shape Predictor and MTCNN. and achieved an accuraccy of  88.9 % ,after searching the for the crimal face it provide the list of various possible matches according to the face match  probabilty .
